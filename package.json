@@ -1,0 +1,30 @@
+{
+  "name": "fetch-cp",
+  "version": "1.0.0",
+  "description": "Create a fetch function using Response, Request and Headers instances. ",
+  "main": "src/cfetch.js",
+  "scripts": {
+    "test": "node cfetch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarherreras/fetch-project.git"
+  },
+  "keywords": [
+    "fetch",
+    "JavaScript"
+  ],
+  "author": "Cesar Herrera",
+  "license": "MIT",
+  "bin": {
+    "fetch-project" : "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/cesarherreras/fetch-project/issues"
+  },
+  "homepage": "https://github.com/cesarherreras/fetch-project#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
