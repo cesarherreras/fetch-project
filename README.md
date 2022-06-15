@@ -12,7 +12,7 @@ It's a npm package created to make API requests. Involves instances of Headers a
 ### Prerequisites
 
 - Download the node-fetch dependency. The version required is 2.6.7 to avoid vulnerabilities. 
-- Download the package named fetch-cp
+- Download the package named fetch-cp. Link: https://www.npmjs.com/package/fetch-cp
 
 ### Usage
 
